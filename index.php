@@ -1,7 +1,13 @@
+<?php
+header("Access-Control-Allow-Origin: *");
+?>
 <html>
-<head>
-</head>
+<header>
+</header>
 <body>
+  <div>
+    <p id="cachorro">O muuuundoooo</p>
+  </div>
 <pre style="word-wrap: break-word; white-space: pre-wrap;">
 [
   {
